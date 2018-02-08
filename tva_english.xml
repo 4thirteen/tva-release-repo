@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<repositories>
+   <repository>
+      <name>XBMC-CatchupTV-AU</name>
+      <username>xbmc-catchuptv-au</username>
+      <description>Aussie Add-ons (development)</description>
+   </repository>
+   
+   <repository>
+      <name>TV ADDONS</name>
+      <username>tvaddonsco</username>
+      <description>TVADDONS.co Addon Repository</description>
+   </repository>
+
+   <repository>
+      <name>FTV Guide</name>
+      <username>bluezed</username>
+      <description>FTV Guide Repository</description>
+   </repository>
+   
+   <repository>
+      <name>NitroCSIA</name>
+      <username>NitroCSIA</username>
+      <description>NitroCSIA XBMC Addons</description>
+   </repository>
+
+   <repository>
+      <name>Leopold</name>
+      <username>LS80</username>
+      <description>Leopold Add-ons</description>
+   </repository>
+   
+   <repository>
+      <name>elmerohueso</name>
+      <username>elmerohueso</username>
+      <description>elmerohueso's Add-on Repository</description>
+   </repository>
+   
+   <repository>
+      <name>ddurdle</name>
+      <username>ddurdle</username>
+      <description>ddurdle's XBMC Addons</description>
+   </repository>
+   
+   <repository>
+      <name>MetaTeam</name>
+      <username>metate</username>
+      <description>MetaTeam Repository</description>
+   </repository>
+   
+   <repository>
+      <name>Featherence</name>
+      <username>finalmakerr</username>
+      <description>Featherence repository</description>
+   </repository>
+
+   <repository>
+      <name>uRepo</name>
+      <username>zag2me</username>
+      <description>uRepo Repository</description>
+   </repository>
+   
+   <repository>
+      <name>solbero</name>
+      <username>solbero</username>
+      <description>solbero's Kodi add-on repository</description>
+   </repository>
+
+   <repository>
+      <name>arneson</name>
+      <username>arnesongit</username>
+      <description>TIDAL2 Addons by arneson</description>
+   </repository>
+   
+   <repository>
+      <name>Jlippold</name>
+      <username>jlippold</username>
+      <description>Jlippold Repository</description>
+   </repository>
+   
+   <repository>
+      <name>hawkeyexp</name>
+      <username>hawkeyexp</username>
+      <description>Hawkeyexp's Repo (v17)</description>
+   </repository>
+   
+   <repository>
+      <name>bossanova808</name>
+      <username>bossanova808</username>
+      <description>bossanova808's XBMC Addons</description>
+   </repository>
+   
+   <repository>
+      <name>Rasjani</name>
+      <username>rasjani</username>
+      <description>Rasjani's Add-ons</description>
+   </repository>
+   
+   <repository>
+      <name>robwebset</name>
+      <username>robwebset</username>
+      <description>robwebset's Repository</description>
+   </repository>
+
+   <repository>
+      <name>marcelveldt</name>
+      <username>marcelveldt</username>
+      <description>Marcelveldt's BETA repository</description>
+   </repository>
+   
+   <repository>
+      <name>Zach Morris</name>
+      <username>zach-morris</username>
+      <description>Zach Morris Add-ons</description>
+   </repository>
+   
+   <repository>
+      <name>eracknaphobia</name>
+      <username>eracknaphobia</username>
+      <description>eracknaphobia's Repo</description>
+   </repository>
+   
+   <repository>
+      <name>Lunatixz</name>
+      <username>Lunatixz</username>
+      <description>Lunatixz Beta Repository</description>
+   </repository>
+   
+   <repository>
+      <name>MetalChris</name>
+      <username>MetalChris</username>
+      <description>MetalChris' Repository</description>
+   </repository>
+   
+   <repository>
+      <name>catchup4kodi</name>
+      <username>catchup4kodi</username>
+      <description>Catchup4Kodi Repo</description>
+   </repository>
+   
+   <repository>
+      <name>Nux007</name>
+      <username>Nux007</username>
+      <description>Kodi Nux007 Repository</description>
+   </repository>
+
+   <repository>
+      <name>Dev Kong</name>
+      <username>Dev-kong</username>
+      <description>Dev Kong Repository</description>
+   </repository>
+   
+   <repository>
+      <name>Aenemapy</name>
+      <username>aenemapy</username>
+      <description>Aenemapy Addons Repository</description>
+   </repository>
+   
+   <repository>
+      <name>JSergio123</name>
+      <username>jsergio123</username>
+      <description>jsergio repo</description>
+   </repository>
+   
+   <repository>
+      <name>BludhavenGrayson</name>
+      <username>BludhavenGrayson</username>
+      <description>BludhavenGrayson Add-ons</description>
+   </repository>
+</repositories>
